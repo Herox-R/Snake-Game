@@ -24,4 +24,4 @@ Main Components:
 -MainWindow (UI): This is the WPF window that displays the grid and handles user input (e.g., key presses to control the snake).
 
 # Author 
-- Sylvester
+- Sylvester N
