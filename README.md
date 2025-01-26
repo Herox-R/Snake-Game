@@ -1,13 +1,14 @@
 # Snake Game
  The Snake game is a simple version of the classic Snake game where the player controls a snake that moves around the screen and eats food to grow longer.
 
-#Technologies:
+#Technologies
 - C# (Programming Language)
 - WPF (Windows Presentation Foundation) (UI Framework)
 - XAML (UI Markup Language)
 - BitmapImage (For loading images)
 - MVVM (Model-View-ViewModel) (Design Pattern for UI separation)
-#Frameworks and Components:
+  
+#Frameworks and Components
 - .NET Framework 4.8
 - WPF Controls (Grid, TextBlock, Border, UniformGrid, etc.)
 - Image Management (For Snake, Food, etc.)
